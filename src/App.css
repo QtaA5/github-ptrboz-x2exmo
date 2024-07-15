@@ -1,0 +1,27 @@
+
+.App-body {
+  text-align: center;
+  font-size: calc(8px + 2vmin);
+  color: black;
+}
+
+.App-link {
+  color: #FF5050;
+}
+
+a:hover {
+  color: #FF5050;
+  text-decoration: underline;
+}
+
+img {
+	max-width: 50%;
+}
+
+video {
+	max-width: 50%;
+}
+
+.space {
+  padding-top: 10px;
+}
